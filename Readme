@@ -1,0 +1,9 @@
+Analyzing Change in Gender Equality Worldwide from 1960 to 1980
+
+Objectives
+
+Our goal is to understand how gender equality changes for individuals living in different countries based on the average income level and a time series (from 1960 to 1980). We will analyze various quality of life metrics over multiple stages of life for individuals living in countries with different economic conditions.
+
+Data Source
+
+The World Development Indicator dataset has been taken from Kaggle which contains over 1344 annual indicators of economic development from 247 countries around the world.
